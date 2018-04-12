@@ -4,6 +4,15 @@ Wakanda is a stealth isometric turn-based game. All you have to do is not get sp
 
 
 
+
+
+## Notes
+We know that sometimes the ending videos don't work, that's because we were using and old unity version and the video player is buggy.
+
+
+
+
+
 ## Project Technologies
 This project is [made with Unity](https://unity3d.com/) and all the source code is written in C#. For the movement of all the actor we've used the [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm), but we've removed the oblique movement for design purposes. 
 
@@ -74,8 +83,3 @@ The A* algorithm helped us to count each node the actor has visited in his turn 
 ![](https://i.imgur.com/INYvLn3.jpg)
 
 
-
-
-
-## Notes
-We know that sometimes the ending videos don't work, that's because we were using and old unity version and the video player is buggy.
