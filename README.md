@@ -17,7 +17,7 @@ We know that sometimes the ending videos don't work, that's because we were usin
 This project is [made with Unity](https://unity3d.com/) and all the source code is written in C#. For the movement of all the actor we've used the [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm), but we've removed the oblique movement for design purposes. 
 
 
-### A* Algorithm on work
+### A* Algorithm at work
 ![](https://lh3.googleusercontent.com/-sBqMk8wQdqc/UXg7pyUEJkI/AAAAAAAAMJs/PpagqdIBFP0/w506-h300/path.gif)
 
 ### Protorype A* implementation
